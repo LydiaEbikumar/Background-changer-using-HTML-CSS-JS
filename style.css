@@ -1,0 +1,11 @@
+#text {
+    width: 500px;
+    height: 500px;
+    border: 1px solid #ccc;
+    margin-left: 30%;
+}
+#click{
+    margin-left: 45%;
+    margin-top: 30px;
+    padding: 5px;
+}
